@@ -1,6 +1,3 @@
-
-<img src="https://github.com/Archie-Team/Bullrun-Frontend/raw/main/images/logo.png" width="30%"/>
-
 # Bull Run
 **_BullRun_** is an online multiplayer decentralised gambling game.
 
