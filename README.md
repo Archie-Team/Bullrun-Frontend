@@ -8,7 +8,7 @@
 
 ![Site Screenshot](https://github.com/Archie-Team/Bullrun-Frontend/raw/main/images/2.png)
 ![Site Screenshot](https://github.com/Archie-Team/Bullrun-Frontend/raw/main/images/2.png)
-<img src="https://github.com/Archie-Team/Bullrun-Frontend/raw/main/images/2.png" width="100" height="100">
+<img src="https://github.com/Archie-Team/Bullrun-Frontend/raw/main/images/2.png" width="50%"
 
 ## Tech Stack
 
