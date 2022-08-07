@@ -29,6 +29,6 @@ This project is used by the following website:
 - [BullRun](https://bullrun.bullbets.io/)
 
 
-## Developer Of This Project
+## Contact With Me
 
-- [Sajjad Javadi](SajjadJavadi28@gmail.com)
+- Email: SajjadJavadi28@gmail.com
