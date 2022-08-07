@@ -6,7 +6,7 @@
 ## Screenshots
 
 ![Site Screenshot](./images/1.png)
-![Site Screenshot](./image/2.png)
+![Site Screenshot](./images/2.png)
 
 ## Tech Stack
 
