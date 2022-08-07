@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bc93fb6-7fb1-400c-a911-95221a6522c2" name="Default Changelist" comment="Start on git" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="24ESsuxYPmWi2mx6RbLUiEXWcE1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../AndroidSDK" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.3474233" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/build/web" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/build" />
+      <recent name="$PROJECT_DIR$/assets/sound" />
+      <recent name="$PROJECT_DIR$/assets/video" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/build/web" />
+      <recent name="$PROJECT_DIR$/lib/global/counter_down" />
+      <recent name="$PROJECT_DIR$/lib/view/dialog" />
+      <recent name="$PROJECT_DIR$/assets/video/b" />
+      <recent name="$PROJECT_DIR$/lib/view" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$PROJECT_DIR$/../.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bc93fb6-7fb1-400c-a911-95221a6522c2" name="Default Changelist" comment="" />
+      <created>1643194468870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643194468870</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Remove generating password">
+      <created>1653723648991</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1653723648992</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Change Leaderboard word">
+      <created>1653723782903</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1653723782903</updated>
+    </task>
+    <task id="LOCAL-00111" summary="Change icons folder name to fav">
+      <created>1653728422170</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1653728422171</updated>
+    </task>
+    <task id="LOCAL-00112" summary="Change order setPathUrlStrategy">
+      <created>1653993882817</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1653993882818</updated>
+    </task>
+    <task id="LOCAL-00113" summary="Add maxLenght to dialog 2FA">
+      <created>1653993932632</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1653993932632</updated>
+    </task>
+    <task id="LOCAL-00114" summary="Add maxLenght ability to textInput">
+      <created>1653993966005</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1653993966006</updated>
+    </task>
+    <task id="LOCAL-00115" summary="Change gif">
+      <created>1653993986298</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1653993986298</updated>
+    </task>
+    <task id="LOCAL-00116" summary="Add build files v7.6">
+      <created>1653994019558</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1653994019558</updated>
+    </task>
+    <task id="LOCAL-00117" summary="Add build files v7.6">
+      <created>1653994900202</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1653994900202</updated>
+    </task>
+    <task id="LOCAL-00118" summary="Add build files v7.7">
+      <created>1654186087666</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1654186087666</updated>
+    </task>
+    <task id="LOCAL-00119" summary="Check socket.hasListeners on sockets">
+      <created>1654502660242</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1654502660242</updated>
+    </task>
+    <task id="LOCAL-00120" summary="Add build files v7.8">
+      <created>1654503255983</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1654503255983</updated>
+    </task>
+    <task id="LOCAL-00121" summary="Add build files v7.9">
+      <created>1654518146815</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1654518146815</updated>
+    </task>
+    <task id="LOCAL-00122" summary="Add sound player">
+      <created>1654614945848</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1654614945849</updated>
+    </task>
+    <task id="LOCAL-00123" summary="Add ForceNew to socket">
+      <created>1654614980789</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1654614980789</updated>
+    </task>
+    <task id="LOCAL-00124" summary="Add build file v8.0">
+      <created>1654615111322</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1654615111322</updated>
+    </task>
+    <task id="LOCAL-00125" summary="Change mp3 file to link">
+      <created>1654696066701</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1654696066701</updated>
+    </task>
+    <task id="LOCAL-00126" summary="Add build file v8.1">
+      <created>1654696232116</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1654696232116</updated>
+    </task>
+    <task id="LOCAL-00127" summary="Add Max cash out">
+      <created>1654879758309</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1654879758309</updated>
+    </task>
+    <task id="LOCAL-00128" summary="Add build file v8.2">
+      <created>1654879959705</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1654879959705</updated>
+    </task>
+    <task id="LOCAL-00129" summary="Add build file v8.3">
+      <created>1654946680650</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1654946680651</updated>
+    </task>
+    <task id="LOCAL-00130" summary="Add build file v8.3">
+      <created>1654947032375</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1654947032375</updated>
+    </task>
+    <task id="LOCAL-00131" summary="Update url_launcher">
+      <created>1656219264096</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1656219264096</updated>
+    </task>
+    <task id="LOCAL-00132" summary="Add build file 8.4">
+      <created>1658160684591</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1658160684592</updated>
+    </task>
+    <task id="LOCAL-00133" summary="Change voice address">
+      <created>1658570349379</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1658570349380</updated>
+    </task>
+    <task id="LOCAL-00134" summary="add toStringAsFixed to profits">
+      <created>1658570499498</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1658570499498</updated>
+    </task>
+    <task id="LOCAL-00135" summary="Change swap button margin">
+      <created>1658570531421</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1658570531421</updated>
+    </task>
+    <task id="LOCAL-00136" summary="Some edit">
+      <created>1658570551562</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1658570551562</updated>
+    </task>
+    <task id="LOCAL-00137" summary="Add build file 8.5">
+      <created>1658570580002</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1658570580002</updated>
+    </task>
+    <task id="LOCAL-00138" summary="Add build file 8.6">
+      <created>1658573297613</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1658573297613</updated>
+    </task>
+    <task id="LOCAL-00139" summary="Add build file 8.7">
+      <created>1659017407750</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1659017407751</updated>
+    </task>
+    <task id="LOCAL-00140" summary="Add build file 8.7">
+      <created>1659017714346</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1659017714346</updated>
+    </task>
+    <task id="LOCAL-00141" summary="Add build file 8.7">
+      <created>1659017947974</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1659017947974</updated>
+    </task>
+    <task id="LOCAL-00142" summary="Add build file 8.7">
+      <created>1659021147555</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1659021147555</updated>
+    </task>
+    <task id="LOCAL-00143" summary="Add build file 8.8">
+      <created>1659021505440</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1659021505440</updated>
+    </task>
+    <task id="LOCAL-00144" summary="Add build file 9.0">
+      <created>1659021878225</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1659021878225</updated>
+    </task>
+    <task id="LOCAL-00145" summary="Add build file 9.6">
+      <created>1659267518760</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1659267518761</updated>
+    </task>
+    <task id="LOCAL-00146" summary="Add build file 9.6">
+      <created>1659267534789</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1659267534789</updated>
+    </task>
+    <task id="LOCAL-00147" summary="Change dialog content and icons">
+      <created>1659437034509</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1659437034509</updated>
+    </task>
+    <task id="LOCAL-00148" summary="Change dialogs content and logos">
+      <created>1659437622148</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1659437622148</updated>
+    </task>
+    <task id="LOCAL-00149" summary="Change description">
+      <created>1659437643740</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1659437643741</updated>
+    </task>
+    <task id="LOCAL-00150" summary="Remove svg support from custom inputs">
+      <created>1659437666300</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1659437666300</updated>
+    </task>
+    <task id="LOCAL-00151" summary="Change some methods">
+      <created>1659437722006</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1659437722006</updated>
+    </task>
+    <task id="LOCAL-00152" summary="Add build file v9.7 on testnet">
+      <created>1659446586076</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1659446586076</updated>
+    </task>
+    <task id="LOCAL-00153" summary="Add build file v9.8 on mainnet">
+      <created>1659542316527</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1659542316527</updated>
+    </task>
+    <task id="LOCAL-00154" summary="Add build file v9.8 on mainnet">
+      <created>1659542629841</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1659542629841</updated>
+    </task>
+    <task id="LOCAL-00155" summary="Add build file v9.9 on mainnet">
+      <created>1659622814431</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1659622814431</updated>
+    </task>
+    <task id="LOCAL-00156" summary="Add emailVerified route">
+      <created>1659778768706</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1659778768707</updated>
+    </task>
+    <task id="LOCAL-00157" summary="Add build file v10 on mainnet">
+      <created>1659778983508</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1659778983508</updated>
+    </task>
+    <option name="localTasksCounter" value="158" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Add Max cash out" />
+    <MESSAGE value="Add build file v8.2" />
+    <MESSAGE value="Add build file v8.3" />
+    <MESSAGE value="Update url_launcher" />
+    <MESSAGE value="Add build file 8.4" />
+    <MESSAGE value="Change voice address" />
+    <MESSAGE value="add toStringAsFixed to profits" />
+    <MESSAGE value="Change swap button margin" />
+    <MESSAGE value="Some edit" />
+    <MESSAGE value="Add build file 8.5" />
+    <MESSAGE value="Add build file 8.6" />
+    <MESSAGE value="Add build file 8.7" />
+    <MESSAGE value="Add build file 8.8" />
+    <MESSAGE value="Add build file 9.0" />
+    <MESSAGE value="Add build file 9.6" />
+    <MESSAGE value="Change dialog content and icons" />
+    <MESSAGE value="Change dialogs content and logos" />
+    <MESSAGE value="Change description" />
+    <MESSAGE value="Remove svg support from custom inputs" />
+    <MESSAGE value="Change some methods" />
+    <MESSAGE value="Add build file v9.7 on testnet" />
+    <MESSAGE value="Add build file v9.8 on mainnet" />
+    <MESSAGE value="Add build file v9.9 on mainnet" />
+    <MESSAGE value="Add emailVerified route" />
+    <MESSAGE value="Add build file v10 on mainnet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add build file v10 on mainnet" />
+  </component>
+</project>

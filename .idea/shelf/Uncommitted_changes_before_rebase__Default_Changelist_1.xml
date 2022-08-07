@@ -1,0 +1,79 @@
+<changelist name="Uncommitted_changes_before_rebase_[Default_Changelist]1" date="1653920144759" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before rebase [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value=".dart_tool/chrome-device/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/Code Cache/js/index-dir/the-real-index" />
+    <option name="AFTER_PATH" value=".dart_tool/chrome-device/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/Code Cache/js/index-dir/the-real-index" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/the-real-index" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".dart_tool/chrome-device/Default/Visited Links" />
+    <option name="AFTER_PATH" value=".dart_tool/chrome-device/Default/Visited Links" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/Visited Links" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".dart_tool/chrome-device/Default/WebStorage/QuotaManager" />
+    <option name="AFTER_PATH" value=".dart_tool/chrome-device/Default/WebStorage/QuotaManager" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/QuotaManager" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".dart_tool/chrome-device/Default/Sessions/Tabs_13298238217520832" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".dart_tool/chrome-device/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/GPUCache/index" />
+    <option name="AFTER_PATH" value=".dart_tool/chrome-device/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/GPUCache/index" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/index" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".dart_tool/chrome-device/Default/Network Action Predictor" />
+    <option name="AFTER_PATH" value=".dart_tool/chrome-device/Default/Network Action Predictor" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/Network Action Predictor" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".dart_tool/chrome-device/Default/Sessions/Session_13298238214894963" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="assets/video/end.gif" />
+    <option name="AFTER_PATH" value="assets/video/end.gif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/end.gif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".dart_tool/chrome-device/Default/Service Worker/ScriptCache/2cc80dabc69f58b6_0" />
+    <option name="AFTER_PATH" value=".dart_tool/chrome-device/Default/Service Worker/ScriptCache/2cc80dabc69f58b6_0" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/2cc80dabc69f58b6_0" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".dart_tool/chrome-device/Default/History" />
+    <option name="AFTER_PATH" value=".dart_tool/chrome-device/Default/History" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/History" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".dart_tool/chrome-device/Default/Favicons" />
+    <option name="AFTER_PATH" value=".dart_tool/chrome-device/Default/Favicons" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/Favicons" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".dart_tool/chrome-device/Default/Service Worker/ScriptCache/index-dir/the-real-index" />
+    <option name="AFTER_PATH" value=".dart_tool/chrome-device/Default/Service Worker/ScriptCache/index-dir/the-real-index" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/the-real-index1" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".dart_tool/chrome-device/Default/Reporting and NEL" />
+    <option name="AFTER_PATH" value=".dart_tool/chrome-device/Default/Reporting and NEL" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/Reporting and NEL" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".dart_tool/chrome-device/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/Code Cache/wasm/index-dir/the-real-index" />
+    <option name="AFTER_PATH" value=".dart_tool/chrome-device/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/Code Cache/wasm/index-dir/the-real-index" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/the-real-index2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".dart_tool/chrome-device/Default/Top Sites" />
+    <option name="AFTER_PATH" value=".dart_tool/chrome-device/Default/Top Sites" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/Top Sites" />
+  </binary>
+</changelist>

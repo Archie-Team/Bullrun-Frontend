@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <base href="/">
+
+    <meta charset="UTF-8">
+    <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+    <meta name="description" content="Join The BullRun">
+    <!--    <meta name="keywords" content="Join The BullRun">-->
+    <meta property="og:title" content="BullRun"/>
+    <!--    <meta property="og:site_name" content="BullRun"/>-->
+    <!--    <meta property="og:description" content="Join The BullRun" />-->
+    <meta property="og:image" content="./favicon.png"/>
+
+    <!-- iOS meta tags & icons -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="bet">
+    <link rel="apple-touch-icon" href="./fav.svg">
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="57x57" href="./fav.svg">
+    <link rel="apple-touch-icon" sizes="60x60" href="./fav.svg">
+    <link rel="apple-touch-icon" sizes="72x72" href="./fav.svg">
+    <link rel="apple-touch-icon" sizes="76x76" href="./fav.svg">
+    <link rel="apple-touch-icon" sizes="114x114" href="./fav.svg">
+    <link rel="apple-touch-icon" sizes="120x120" href="./fav.svg">
+    <link rel="apple-touch-icon" sizes="144x144" href="./fav.svg">
+    <link rel="apple-touch-icon" sizes="152x152" href="./fav.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="./fav.svg">
+    <link rel="icon" type="image/png" sizes="192x192" href="./fav.svg">
+    <link rel="icon" type="image/png" sizes="32x32" href="./fav.svg">
+    <link rel="icon" type="image/png" sizes="96x96" href="./fav.svg">
+    <link rel="icon" type="image/png" sizes="16x16" href="./fav.svg">
+    <link rel="manifest" href="./manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="./fav.svg">
+    <meta name="theme-color" content="#ffffff">
+
+    <!--    <link rel="icon" type="image/png" href="favicon.png"/>-->
+
+    <title>BullRun</title>
+    <link rel="manifest" href="./manifest.json">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <script>var serviceWorkerVersion = null;</script>
+    <script src="flutter.js" defer></script>
+</head>
+<body>
+<div class="center" style="text-align:center;">
+    <h1 style="color:white; padding:0;">BullRun</h1>
+    <!--    <h5 style="color:white; padding:0;">v7.1</h5>-->
+</div>
+<!-- This script installs service_worker.js to provide PWA functionality to
+     application. For more information, see:
+     https://developers.google.com/web/fundamentals/primers/service-workers -->
+<script>
+    window.addEventListener('load', function(ev) {
+      // Download main.dart.js
+      _flutter.loader.loadEntrypoint({
+        serviceWorker: {
+          serviceWorkerVersion: serviceWorkerVersion,
+        }
+      }).then(function(engineInitializer) {
+        return engineInitializer.initializeEngine();
+      }).then(function(appRunner) {
+        return appRunner.runApp();
+      });
+    });
+
+
+
+</script>
+<!--Ethers-->
+<script src="https://cdn.ethers.io/lib/ethers-5.4.umd.min.js"
+        type="application/javascript"></script>
+<!--Wallet Connect-->
+<script src="https://cdn.jsdelivr.net/npm/@walletconnect/web3-provider@1.7.7/dist/umd/index.min.js"
+        type="application/javascript"></script>
+<script src="main.dart.js?version=100" type="application/javascript"></script>
+</body>
+</html>
