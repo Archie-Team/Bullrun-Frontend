@@ -1,13 +1,15 @@
 
-![Logo](./images/logo.png)
+<img src="https://github.com/Archie-Team/Bullrun-Frontend/raw/main/images/logo.png" width="30%"/>
 
 # Bull Run
 **_BullRun_** is an online multiplayer decentralised gambling game.
 
 ## Screenshots
 
+<div style="display:flex;">
 <img src="https://github.com/Archie-Team/Bullrun-Frontend/raw/main/images/1.png" width="40%"/>
 <img src="https://github.com/Archie-Team/Bullrun-Frontend/raw/main/images/2.png" width="40%"/>
+<div/>
 
 ## Tech Stack
 
